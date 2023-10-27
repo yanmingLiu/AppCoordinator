@@ -97,6 +97,6 @@ iOSInjectionProject/
 Packages
 xcuserdata
 *.xcodeproj
-
+*.xcuserstate
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,cocoapods
